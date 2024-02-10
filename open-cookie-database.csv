@@ -1422,4 +1422,4 @@ b6c5f4a0-ca8d-4aba-8c15-9a37e7ae5dd9,Lightspeed,Functional,COOKIELAW_SOCIAL,,"Ke
 3738fa9c-5257-4290-b3f3-0b862a011098,Lightspeed,Functional,COOKIELAW_STATS,,"Keeps track of whether analytics cookies are allowed",1 year,Lightspeed,https://www.lightspeedhq.com/legal/privacy-policy/,0
 2bbfb3a9-50a0-4ee6-b86a-cd03eb43be20,Lightspeed,Functional,COOKIELAW,,"These cookies are used for platform stability and to store cookie preferences. They do not collect personally identifiable information and cannot be disabled.",1 year,Lightspeed,https://www.lightspeedhq.com/legal/privacy-policy/,0
 71a7af65-12a4-4ba9-bea3-8b0d85083f46,Mixpanel,Analytics,mp_,,"This cookie is used to store a user's unique identifier.",1 year,Mixpanel,https://mixpanel.com/legal/privacy-policy/,1
-
+a269b397-b148-4015-ad85-333ea600b0d6,Cookie Control,Functional,CookieControl,,"This cookie is used to remember the user's cookie consent preferences.",3 months,Civic UK,https://www.civicuk.com/privacy,0
